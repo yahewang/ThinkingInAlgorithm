@@ -1,0 +1,35 @@
+#1: Two Sum https://leetcode.com/problems/two-sum/
+
+#2: Base on #1, we have:
+
+	Given an int array nums and an int target, find how many unique pairs in the array such that their sum is equal to target. Return the number of pairs.
+
+	Input: nums = [1, 1, 2, 45, 46, 46], target = 47
+	Output: 2
+	Explanation:
+	1 + 46 = 47
+	2 + 45 = 47
+
+#3: Same Tree (three solutions: 3, 4, 5), https://leetcode.com/problems/same-tree/
+
+#6: Number of Islands (three solutions: 6, 7, 8), https://leetcode.com/problems/number-of-islands/
+
+#9: Reverse Linked List (three solutions: 9, 10, 11) https://leetcode.com/problems/reverse-linked-list/
+
+#12: Maximum Units on a Truck https://leetcode.com/problems/maximum-units-on-a-truck/
+
+#13: Minimum Cost to Connect Sticks https://leetcode.com/problems/minimum-cost-to-connect-sticks/
+
+#14: Number of Provinces (three solutions: 14, 15, 16): https://leetcode.com/problems/number-of-provinces/
+
+#15: Robot Bounded In Circle https://leetcode.com/problems/robot-bounded-in-circle/
+
+#16: Reorder Data in Log Files https://leetcode.com/problems/reorder-data-in-log-files/
+
+#17: Min Stack (two solutions: 17, 18) https://leetcode.com/problems/min-stack/
+
+#19: Fibonacci Number https://leetcode.com/problems/fibonacci-number/
+
+	follow up: could you make the space complexity as O(1)?
+
+#20: Design HashMap https://leetcode.com/problems/design-hashmap/
